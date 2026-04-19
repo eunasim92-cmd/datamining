@@ -83,6 +83,12 @@ project/
 
 ---
 
+## folium 지도 시각화
+ [서울시 구별 폐업률 지도](https://eunasim92-cmd.github.io/datamining/seoul_closure_map.html)
+
+---
+
+
 ## 주요 발견
 
 - 역 거리(p=0.04)는 유의미하나 실질 차이 27m에 불과, 유동인구(p=0.066)는 유의미하지 않음
