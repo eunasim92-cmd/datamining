@@ -21,7 +21,7 @@
 |--------|------|------|
 | 청소년게임제공업 | [공공데이터포털](https://www.data.go.kr) | 4,064건 |
 | 지하철역 좌표 | [서울 열린데이터광장](https://data.seoul.go.kr) | 527개 역 |
-| 월별 승하차인원 | [공공데이터포털](https://www.data.go.kr) + [서울 열린데이터광장](https://data.seoul.go.kr) | 2019~2025 |
+| 월별 승하차인원 | [서울 열린데이터광장](https://data.seoul.go.kr) 2곳 | 2019~2025 |
 | 서울시 구별 GeoJSON | [southkorea/seoul-maps](https://github.com/southkorea/seoul-maps) | 25개 구 |
 
 > 데이터 파일은 용량 문제로 포함하지 않았습니다.
