@@ -94,7 +94,7 @@ project/
 ## folium 지도 시각화
 
 - [서울시 구별 폐업률 지도](https://eunasim92-cmd.github.io/datamining/seoul_closure_map.html)
-- [업소 분포 및 선택편향 지도](https://eunasim92-cmd.github.io/datamining/seoul_selection%20bias_map.html)
+- [업소 분포 및 선택편향 지도](https://eunasim92-cmd.github.io/datamining/seoul_selection bias_map.html)
 
 ---
 
